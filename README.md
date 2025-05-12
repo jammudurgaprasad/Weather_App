@@ -1,4 +1,4 @@
-# 🌦️ DPS Weather App
+# 🌦️ DP's Weather App
 
 ![React](https://img.shields.io/badge/React-2025-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
